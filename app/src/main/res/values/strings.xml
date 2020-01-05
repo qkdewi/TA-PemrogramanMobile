@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Mobile Resto</string>
+
+    <string-array name="food_name">
+        <item>Sate Padang</item>
+        <item>Rendang</item>
+        <item>Sate Taichan</item>
+        <item>Ayam Bakar</item>
+        <item>Ayam Geprek</item>
+        <item>Ayam Penyet</item>
+        <item>Sop Iga</item>
+        <item>Nasi Goreng</item>
+        <item>Air Mineral</item>
+        <item>Capucino</item>
+        <item>Es Jeruk</item>
+        <item>Es Teh</item>
+        <item>Jus Alpukat</item>
+        <item>Jus Kiwi</item>
+        <item>Jus Mangga</item>
+        <item>Jus Strawberry</item>
+    </string-array>
+
+    <array name="food_image">
+        <item>@drawable/sate_padang</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/sate_taichan</item>
+        <item>@drawable/ayam_bakar</item>
+        <item>@drawable/ayam_geprek</item>
+        <item>@drawable/ayam_penyet</item>
+        <item>@drawable/sop_iga</item>
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/air_mineral</item>
+        <item>@drawable/capucino</item>
+        <item>@drawable/es_jeruk</item>
+        <item>@drawable/es_teh</item>
+        <item>@drawable/jus_alpukat</item>
+        <item>@drawable/jus_kiwi</item>
+        <item>@drawable/jus_mangga</item>
+        <item>@drawable/jus_strawberry</item>
+    </array>
+
+    <string-array name="resto_name">
+        <item>Rumah Makan Sederhana</item>
+        <item>Restoran Geprek</item>
+        <item>Godong Salam</item>
+        <item>Waroeng Kaligarong</item>
+        <item>Kafe LOT 28</item>
+        <item>Kafe Upnormal</item>
+        <item>Cafe Fish Co</item>
+        <item>Kafe Gigle Box</item>
+    </string-array>
+    <array name="resto_image">
+        <item>@drawable/resto_padang</item>
+        <item>@drawable/resto_geprek</item>
+        <item>@drawable/resto_godongsalam</item>
+        <item>@drawable/resto_kaligarong</item>
+        <item>@drawable/resto_lot28</item>
+        <item>@drawable/resto_upnormal</item>
+        <item>@drawable/resto_fishco</item>
+        <item>@drawable/resto_giglebox</item>
+    </array>
+</resources>

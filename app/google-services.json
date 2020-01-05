@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "938047782594",
+    "firebase_url": "https://aplikasi-unisbank.firebaseio.com",
+    "project_id": "aplikasi-unisbank",
+    "storage_bucket": "aplikasi-unisbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938047782594:android:988bde9eff5c7c2e6d855b",
+        "android_client_info": {
+          "package_name": "com.qomariahkumaladewi.mobileresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938047782594-uaknv0jarjdbs8jaogursbga9k4j1n2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qomariahkumaladewi.mobileresto",
+            "certificate_hash": "1c89983978f2d7dd3707c82d50751557961293ec"
+          }
+        },
+        {
+          "client_id": "938047782594-hif48bh7f2lcml18u4br78ubl4vnks8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDdo6HwEB_bSeRSsrBbJjmvrXhlxr7wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938047782594-hif48bh7f2lcml18u4br78ubl4vnks8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938047782594:android:8322e8b6a85868d86d855b",
+        "android_client_info": {
+          "package_name": "com.qomariahkumaladewi.restaurantsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938047782594-mc5bak94nrgjmith4oqda3ertu7c0o16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qomariahkumaladewi.restaurantsearch",
+            "certificate_hash": "1c89983978f2d7dd3707c82d50751557961293ec"
+          }
+        },
+        {
+          "client_id": "938047782594-hif48bh7f2lcml18u4br78ubl4vnks8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDdo6HwEB_bSeRSsrBbJjmvrXhlxr7wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938047782594-hif48bh7f2lcml18u4br78ubl4vnks8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
